@@ -1,0 +1,4 @@
+#ifndef IMAGECAPTURE_H
+#define IMAGECAPTURE_H
+
+#endif // IMAGECAPTURE_H
